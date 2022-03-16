@@ -3,4 +3,4 @@ Click Record and then write some Code then Stop and Click on Play to replay what
 
 install below dependency and use this component in your project.
 
-npm i @uiw/react-textarea-code-editor
+### `npm i @uiw/react-textarea-code-editor`
